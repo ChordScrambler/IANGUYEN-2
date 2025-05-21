@@ -1,0 +1,45 @@
+/* ----------------------------------------------- */
+/* media queries */
+
+/* ----------------------------------------------- */
+/* navbar */
+@media all and (max-width: 1660px) {
+    .navbar-title {
+        left: 1rem;
+    }
+}
+
+@media all and (max-width: 1660px) {
+    .navbar-title {
+        left: 1rem;
+    }
+}
+
+@media all and (max-width: 573px) {
+    .navbar-middle {
+        pointer-events: none;
+        opacity: 0;
+    }
+}
+
+/* ----------------------------------------------- */
+/* menu */
+
+@media all and (max-width: 1282px) {
+    .menu {
+    width: 50%;
+    }
+
+}
+
+@media all and (max-width: 1014px) {
+    .menu {
+    width: 65%;
+    }
+}
+
+@media all and (max-width: 800px) {
+    .menu {
+    width: 100%;
+    }
+}
